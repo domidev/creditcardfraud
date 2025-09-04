@@ -1,3 +1,6 @@
+### DATASET : KAGGLE : CREDIT CARD FRAUD DETECTION : https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
+
+
 Credit Card Fraud Detection - Applied AI Project
 
 Projektbeskrivning
@@ -16,5 +19,3 @@ Random Forest med feature importance
 Confusion Matrix och ROC-curve för jämförelse
 Slutsatser och diskussion
 Kort notering om möjlig Deep Learning (MLP) som inte implementerats på grund av tekniska begränsningar
-
-# creditcardfraud
